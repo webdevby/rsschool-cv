@@ -28,3 +28,9 @@ function arithmetic(a, b, operator){
   }
 }
 ```
+## Education
+1. Belarusian State University of Informatics and Radioelectronics  
+Faculty of Information Technologies and Control  
+2023
+2. The Rolling Scopes School educational program  
+2022

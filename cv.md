@@ -34,3 +34,6 @@ Faculty of Information Technologies and Control
 2023
 2. The Rolling Scopes School educational program  
 2022
+## Languages
+* Russian (native speaker)
+* English (B2)   

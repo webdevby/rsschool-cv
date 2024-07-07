@@ -7,7 +7,7 @@ html {
 nav {
   scroll-behavior: smooth;
   max-width: 550px;
-  margin: 0 0 0 auto;
+  margin: 0 auto;
 }
 
 nav ul {
